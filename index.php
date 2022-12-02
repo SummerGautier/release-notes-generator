@@ -12,7 +12,7 @@
 
 <body class="body">
     <div class="header">
-        <p class="page-title">Release Notes Generator</p>
+        <p class="page-title">Release Notes Generator (DEMO ONLY)</p>
     </div>
     <div class="main-content">
         <div class=" page-section left">
