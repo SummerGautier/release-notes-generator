@@ -39,6 +39,15 @@
     border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
+@media screen and (max-width: 1000px) {
+    .page-section.left{
+        max-width: 100%;
+    }
+    .page-section{
+        margin:0px 0px 20px 0px;
+    }
+}
+
 .page-section.right {
     border: 1px solid rgba(0, 0, 0, 0.2);
 }
@@ -48,6 +57,12 @@
     height: 60%;
     margin: auto;
     display: block;
+}
+
+@media screen and (max-width: 400px){
+    .form-container{
+        width: 50vw;
+    }
 }
 
 .upload-form {
@@ -72,6 +87,7 @@
     text-align: center;
     background-color: white;
     border-radius: 5px;
+    padding-bottom:10px;
 }
 
 .drop-zone-image {
@@ -83,6 +99,12 @@
     height: 50%;
     overflow: hidden;
     opacity: 0.5;
+}
+
+@media screen and (max-width: 545px) {
+    .drop-zone-image{
+        height:25%;
+    }
 }
 
 .copy-buttons-container {
@@ -101,6 +123,14 @@
     color: white;
     border: 1px solid rgba(0, 0, 0, 0.2);
     padding: 5px 10px;
+}
+
+@media screen and (max-width: 470px) {
+    .copy-button{
+        min-width: none;
+        width:100%;
+        margin-bottom:5px;
+    }  
 }
 
 .copy-button:hover {
