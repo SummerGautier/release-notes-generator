@@ -1,1 +1,2 @@
 ## Usage Instructions
+This is a client-side application. Download localy and open index.html in your browser. Upload your github release notes as a .csv and it will be converted into markdown. To see the expected column labels take a look at the csv-sample.csv file for an example input. The markdown is generated client-side so your data will not be sent to a server or transmitted over the internet. 
