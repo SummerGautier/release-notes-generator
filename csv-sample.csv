@@ -1,0 +1,33 @@
+Title,Description,Issue ID,URL,State,Author,Author Username,Assignee,Assignee Username,Confidential,Locked,Due Date,Created At (UTC),Updated At (UTC),Closed At (UTC),Milestone,Weight,Labels,Time Estimate,Time Spent
+[Customer X] wants something doing one of the many things they like,"This is a description it can be multi
+
+line and ‘ contain , interesting 
+
+
+characters so watch out for “ those ;!
+
+:-)",3546,https://gitlab.mycompany.invalid/issues/5988,Open,Bob Smith,Bob Smith,Bob Smith,Bob Smith,No,No,,2020-03-24 10:43:17,2022-11-30 08:23:06,,,8,"Bug,Bug: P3,Staged for Release,Technical",0,0
+I can’t manage to do (x) in the app,"This is a description it can be multi
+
+line and ‘ contain , interesting 
+
+
+characters so watch out for “ those ;!
+
+:-)",3969,https://gitlab.mycompany.invalid/issues/5988,Open,Dani Wright,Dani Wright,Dani Wright,Dani Wright,No,No,,2020-07-09 10:06:38,2022-11-30 08:23:03,,,,"Bug,Bug: P4,Staged for Release",0,0
+John: Sell lots of products,"This is a description it can be multi
+
+line and ‘ contain , interesting 
+
+
+characters so watch out for “ those ;!
+
+:-)",4844,https://gitlab.mycompany.invalid/issues/5988,Open,Jo Malone,Jo Malone,Jo Malone,Jo Malone,No,No,,2021-03-22 13:14:12,2022-11-30 08:23:06,,,,"Documents,Improvements,Quick Win,Staged for Release",0,0
+"Do the, thing with the customers 5","This is a description it can be multi
+
+line and ‘ contain , interesting 
+
+
+characters so watch out for “ those ;!
+
+:-)",5988,https://gitlab.mycompany.invalid/issues/5988,Open,Wayne Johnson,Wayne Johnson,Wayne Johnson,Wayne Johnson,No,No,,2022-03-28 10:20:06,2022-11-30 08:23:09,,,,"Improvements,Staged for Release,Technical",0,0
